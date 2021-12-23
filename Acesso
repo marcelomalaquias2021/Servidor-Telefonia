@@ -1,0 +1,2 @@
+# ssh 172.16.188.250 -p22 -l root (senha padrão redelago)
+# pvecm expected 1
